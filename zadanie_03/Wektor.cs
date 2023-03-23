@@ -108,5 +108,38 @@ namespace zadanie_03
 
             return new(wspołrzędneRóżnicy);
         }
+
+        public static Wektor operator *(Wektor V, double s)
+        {
+            Wektor skalar = new Wektor(V.Wymiar);
+
+            if (double.IsFinite(s))
+            {
+                for (byte i = 0; i < V.Wymiar; i++)
+                {
+                    skalar[i] = V[i] * s;
+                }
+            }
+            else
+                throw new ArgumentException($"s was {s} but should be finite");
+
+            return skalar;
+        }
+
+        public static Wektor operator *(double s, Wektor W)
+        {
+            return W * s;
+        }
+
+        public static Wektor operator /(Wektor V, double s)
+        {
+            Wektor dzielenie = new Wektor(V.Wymiar);
+
+            for (byte i = 0; i < V.Wymiar; i++)
+            {
+                dzielenie[i] = V[i] * (1/s);
+            }
+            return dzielenie;
+        }
     }
 }

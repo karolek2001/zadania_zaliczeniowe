@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_03_v2/zadanie_03_v2.csproj",
+      "projectUniqueName": "/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_03/zadanie_03_v2.csproj",
       "projectName": "zadanie_03_v2",
-      "projectPath": "/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_03_v2/zadanie_03_v2.csproj",
+      "projectPath": "/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_03/zadanie_03_v2.csproj",
       "packagesPath": "/home/karol/.nuget/packages/",
-      "outputPath": "/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_03_v2/obj/",
+      "outputPath": "/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_03/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/karol/.nuget/NuGet/NuGet.Config"
