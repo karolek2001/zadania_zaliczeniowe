@@ -1,0 +1,15 @@
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/bin/Debug/net7.0/zadanie_04
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/bin/Debug/net7.0/zadanie_04.deps.json
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/bin/Debug/net7.0/zadanie_04.runtimeconfig.json
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/bin/Debug/net7.0/zadanie_04.dll
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/bin/Debug/net7.0/zadanie_04.pdb
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/zadanie_04.csproj.AssemblyReference.cache
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/zadanie_04.GeneratedMSBuildEditorConfig.editorconfig
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/zadanie_04.AssemblyInfoInputs.cache
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/zadanie_04.AssemblyInfo.cs
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/zadanie_04.csproj.CoreCompileInputs.cache
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/zadanie_04.dll
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/refint/zadanie_04.dll
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/zadanie_04.pdb
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/zadanie_04.genruntimeconfig.cache
+/media/karol/Programy i aplik/ćwiczenia_programowanie_obiektowe/zadania_zaliczeniowe/zadanie_04/obj/Debug/net7.0/ref/zadanie_04.dll
